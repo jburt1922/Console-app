@@ -1,0 +1,13 @@
+/home/jburton11756/Console-app/obj/Debug/netcoreapp3.1/Console-app.csprojAssemblyReference.cache
+/home/jburton11756/Console-app/obj/Debug/netcoreapp3.1/Console-app.AssemblyInfoInputs.cache
+/home/jburton11756/Console-app/obj/Debug/netcoreapp3.1/Console-app.AssemblyInfo.cs
+/home/jburton11756/Console-app/obj/Debug/netcoreapp3.1/Console-app.csproj.CoreCompileInputs.cache
+/home/jburton11756/Console-app/bin/Debug/netcoreapp3.1/Console-app
+/home/jburton11756/Console-app/bin/Debug/netcoreapp3.1/Console-app.deps.json
+/home/jburton11756/Console-app/bin/Debug/netcoreapp3.1/Console-app.runtimeconfig.json
+/home/jburton11756/Console-app/bin/Debug/netcoreapp3.1/Console-app.runtimeconfig.dev.json
+/home/jburton11756/Console-app/bin/Debug/netcoreapp3.1/Console-app.dll
+/home/jburton11756/Console-app/bin/Debug/netcoreapp3.1/Console-app.pdb
+/home/jburton11756/Console-app/obj/Debug/netcoreapp3.1/Console-app.dll
+/home/jburton11756/Console-app/obj/Debug/netcoreapp3.1/Console-app.pdb
+/home/jburton11756/Console-app/obj/Debug/netcoreapp3.1/Console-app.genruntimeconfig.cache
