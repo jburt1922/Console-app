@@ -1,5 +1,5 @@
 using System;
-
+//main
 class MainClass {
   public static void Main (string[] args) {
     Console.WriteLine("Please enter your name: ");
